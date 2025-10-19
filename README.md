@@ -8,8 +8,10 @@ The goal is to build a clean, time-aligned dataset for time series regression mo
 
 ## 2. Data Source
 The dataset used in this project comes from Kaggle: 
+
 **Brisbane Water Quality Dataset**  
 https://www.kaggle.com/datasets/downshift/water-quality-monitoring-dataset/data
+
 **Collection:** Automated in-situ sensors recording every 10–30 minutes  
 **Period:** 2023–2024  
 **Variables:** Dissolved Oxygen (mg/L and %Saturation), Temperature, Salinity, pH, Turbidity, Chlorophyll, Conductance, Water Speed, Water Direction, Timestamp
