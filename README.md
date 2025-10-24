@@ -22,7 +22,7 @@ https://www.kaggle.com/datasets/downshift/water-quality-monitoring-dataset/data
 
 ### DO vs Temperature
 Dissolved Oxygen (mg/L) shows a strong negative correlation with Temperature — higher temperatures correspond to lower oxygen solubility.  
-![DO_vs_DO_Sat_colored_by_Temperature](./figs/DO (mg_L)_vs_DO_Sat_colored_by_Temperature.png)
+![DO_vs_DO_Sat_colored_by_Temperature](./figs/DO_vs_DO_Sat_colored_by_Temperature.png)
 
 ### DO vs DO(%Saturation)
 At higher temperatures, the same relative oxygen saturation corresponds to lower absolute DO concentration.  
