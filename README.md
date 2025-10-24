@@ -76,6 +76,8 @@ Before cleaning, approximately 45% of rows contained missing values, mainly caus
 | Salinity | 16.04 |
 | Turbidity | 7.97 |
 
+![Missing Value](./figs/missing_value.png)
+
 ---
 
 ## 8. Future Work
