@@ -20,18 +20,17 @@ https://www.kaggle.com/datasets/downshift/water-quality-monitoring-dataset/data
 
 ## 3. Exploratory Data Analysis (EDA)
 
-### DO vs Temperature
-Dissolved Oxygen (mg/L) shows a strong negative correlation with Temperature — higher temperatures correspond to lower oxygen solubility.  
+### DO vs DO(%Saturation) colored by Temperature
+Dissolved Oxygen (mg/L) shows a strong positive correlation with DO(%Saturation), about 0.88. At the same time, with higher temperatures, the relative oxygen saturation corresponds to lower absolute DO concentration. 
 ![DO_vs_DO_Sat_colored_by_Temperature](./figs/DO_vs_DO_Sat_colored_by_Temperature.png)
-
-### DO vs DO(%Saturation)
-At higher temperatures, the same relative oxygen saturation corresponds to lower absolute DO concentration.  
 
 ### Average DO by Hour of Day
 Dissolved Oxygen peaks in the afternoon, likely due to increased photosynthetic activity and decreases during the night.  
+![Average DO by Hour](./figs/Average_DO_by_Hour_of_Day.png)
 
 ### Autocorrelation
-Explore the autocorrelation of the Dissolved Oxygen 
+Explore the autocorrelation of the Dissolved Oxygen.
+![Autocorrelation](./figs/Autocorrelation_of_DO.png)
 
 ---
 
